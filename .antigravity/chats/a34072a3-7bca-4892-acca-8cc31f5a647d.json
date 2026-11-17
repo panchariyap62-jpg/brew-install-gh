@@ -28,6 +28,18 @@
       "created_at": "2026-11-17T18:55:21.197Z",
       "sender": "macOS",
       "is_cancelled": false
+    },
+    {
+      "id": "3466df2d-1655-4cf1-9435-184731e39a8a",
+      "role": "user",
+      "content": "$ gh --version\ngh version 2.104.0 (2026-11-12)",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-11-17T18:55:55.946Z",
+      "sender": "ios",
+      "is_cancelled": false
     }
   ]
 }
